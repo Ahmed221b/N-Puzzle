@@ -12,3 +12,5 @@ The program reads the puzzle from a text file and determine whether the puzzle i
 4 - The program stops when the heuristic value reaches 0 that means it's at the goal state.<br />
 5 - All the states starting from the initial state to the goal state is printed.<br />
 
+## Document with much more details is availble in the repo.
+
